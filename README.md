@@ -5,7 +5,7 @@
 ---
 
 ### 🔎 미리보기
-![SCR0](https://github.com/Ahwhi/KBO_MANAGER_2025/blob/main/ScreenShots/0.png)
+![SCR0](https://github.com/Ahwhi/DirectX11_Project_1/blob/main/ScreenShots/1.png)
 
 ---
 
