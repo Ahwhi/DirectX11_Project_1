@@ -4,6 +4,15 @@
 
 ---
 
+### 🕹️ 조작법
+(방향키) 카메라 이동
+
+(A키) 차량 운전 / 운전 취소 
+
+(*SPACE BAR) 타이틀 씬에서 게임 씬으로 이동
+
+---
+
 ### 🔎 미리보기
 ![SCR0](https://github.com/Ahwhi/DirectX11_Project_1/blob/main/ScreenShots/1.png)
 
